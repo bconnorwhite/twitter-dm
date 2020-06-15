@@ -14,3 +14,5 @@ A credentials.json file is required with Twitter API keys:
 ### Usage
 
 `yarn run start`
+
+![dm screenshot](https://github.com/bconnorwhite/twitter-dm/blob/master/assets/dm-screenshot.png?raw=true)
