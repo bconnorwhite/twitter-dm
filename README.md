@@ -13,6 +13,12 @@ A credentials.json file is required with Twitter API keys:
 
 ### Usage
 
+Build:
+
+`yarn run build`
+
+Start:
+
 `yarn run start`
 
 This opens a wizard with the following options:
