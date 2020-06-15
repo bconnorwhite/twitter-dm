@@ -1,0 +1,24 @@
+{
+  "name": "@bconnorwhite/twitter-dm",
+  "version": "0.0.1",
+  "description": "Mass DM Twitter followers, filtered by follower metadata",
+  "main": "./build/index.js",
+  "author": "Connor White",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "bob build",
+    "start": "node ./build/index.js"
+  },
+  "dependencies": {
+    "cron": "^1.8.2",
+    "inquirer": "^7.1.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "@bconnorwhite/bob": "^1.4.0",
+    "@types/cron": "^1.7.2",
+    "@types/inquirer": "^6.5.0",
+    "@types/twit": "^2.2.24"
+  }
+}
